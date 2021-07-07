@@ -3,17 +3,10 @@ body{
     font-family: 'Roboto', sans-serif;
     margin: 0;
 }
-.flexible-container{
+section{
     display: flex;
-    background-image: url(img/top-banner.png);
-    background-repeat: no-repeat;
 }
-.dream-big{
-   
-    background-image: url(img/dream-bg.png);
-    background-repeat: no-repeat;
-    background-position: right;
-}
+/* section-1 */
 h1{
 font-size: 50px;
 }
